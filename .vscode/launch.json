@@ -1,0 +1,84 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "KatoExec_Chapter18",
+            "request": "launch",
+            "mainClass": "basic.kadai_018.KatoExec_Chapter18",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "KatoIchiro_Chapter18",
+            "request": "launch",
+            "mainClass": "basic.kadai_018.KatoIchiro_Chapter18",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "Cat",
+            "request": "launch",
+            "mainClass": "basic.Object3.Cat",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "Animal",
+            "request": "launch",
+            "mainClass": "basic.Object3.Animal",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "basic.Object3.Main",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "basic.Object2.Main",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "basic.Object.KatoFamily.Main",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "basic.Object.Main",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "Capsule_Test1",
+            "request": "launch",
+            "mainClass": "text_section_16.Capsule_Test1",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "Capsule_Test1",
+            "request": "launch",
+            "mainClass": "Capsule_Test1",
+            "projectName": "java_practice_d988535e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
